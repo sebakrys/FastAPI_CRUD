@@ -71,7 +71,7 @@ The application will be available at [http://127.0.0.1:8000](http://127.0.0.1:80
 
 ## Database Setup
 
-Before running the application, ensure your PostgreSQL database is set up. You can create the necessary table with the following SQL command:
+Before running the application, ensure your PostgreSQL database is set up. You can also create the table manually, but this is optional as it will be automatically created if it does not exist. To create the table manually, use the following SQL command:
 
 ```sql
 CREATE TABLE users (
