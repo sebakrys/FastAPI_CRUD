@@ -35,8 +35,8 @@ The required dependencies can be installed via `pip`. See the installation secti
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fastapi-crud-postgresql.git
-cd fastapi-crud-postgresql
+git clone https://github.com/sebakrys/FastAPI_CRUD.git
+cd FastAPI_CRUD
 ```
 
 ### 2. Install Dependencies
